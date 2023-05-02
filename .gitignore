@@ -28,3 +28,6 @@ todo.txt
 *.iml
 *.asc
 .nrepl-history
+.clj-kondo/.cache
+.lsp/.cache
+.portal
